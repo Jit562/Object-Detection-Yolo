@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/YOLO-V8-Object-Detection/data/data/train/images
+val: /content/drive/MyDrive/YOLO-V8-Object-Detection/data/data/valid/images
+
+nc: 5
+names: ['Helmet', 'Goggles', 'Jacket', 'Gloves', 'Footwear']
